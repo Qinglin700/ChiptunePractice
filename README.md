@@ -105,6 +105,8 @@ VST3: /Library/Audio/Plug-Ins/VST3
 
 AU: /Library/Audio/Plug-Ins/Components
 
+If you have some questions, feel free to contact me through email: showyeah70@gmail.com
+
 ## Bibliography
 explod2A03. (2012, March 12). NES Audio: Duty Cycle Modulation. [Video]. YouTube.
 https://www.youtube.com/watch?v=kl9v8gtYRZ4&list=PLaBbLEwMFE7tM_5-
