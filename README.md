@@ -102,3 +102,24 @@ in the field of audio programming.
 For Mac, just paste the VST3/AU file into your plugin path. The default path should be:
 VST3: /Library/Audio/Plug-Ins/VST3
 AU: /Library/Audio/Plug-Ins/Components
+
+## Bibliography
+explod2A03. (2012, March 12). NES Audio: Duty Cycle Modulation. [Video]. YouTube.
+https://www.youtube.com/watch?v=kl9v8gtYRZ4&list=PLaBbLEwMFE7tM_5-
+3mENdh8FBRkjALwXx&index=6
+Finke, M. (2013). Making Audio Plugins Part 18: PolyBLEP Oscillator. Retrieved from
+https://www.martin-finke.de/articles/audio-plugins-018-polyblep-oscillator/
+Kondo, K. (1985). Super Mario Bros. Overworld Theme. [MIDI file]. Retrieved from
+https://www.khinsider.com/midi/nes/super-mario-bros
+Montag, M. (2011). Nintendo VST. Retrieved from https://www.mattmontag.com/projectspage/
+nintendo-vst
+Yokemura. (2022). Magical 8bit Plug. Retrieved from https://ymck.net/app/magical-8bit-plug-en/
+Sada, K., & Adachi, M. (2001). The Legend of Zelda: Oracle of Ages. Overworld Theme. [Video].
+YouTube. https://www.youtube.com/watch?v=UNPAQVaqcHU
+The Audio Programmer. (2017, August 22). Juce Tutorial 11- Basic Wavetable Synthesis in Juce.
+[Video]. YouTube. https://www.youtube.com/watch?v=Zz-gDMo_E8c
+The Audio Programmer. (2018, June 28). Juce Tutorial 39- Bitcrusher Plugin Walkthrough with Aaron
+Leese (Stagecraft Software). [Video]. YouTube.
+https://www.youtube.com/watch?v=1PLn8IAKEb4
+UVI. (2021, February 3). UVI 8-Bit Synth | Overview. [Video]. YouTube.
+https://www.youtube.com/watch?v=Ljtpm_KFL5Q
